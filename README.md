@@ -23,7 +23,7 @@ This repository is part of the ML Arena family, a set of 5 dedicated repositorie
 ## Repository Layout
 
 ```
-ML-Arena-4/
+K-Means-Clustering/
 |- README.md
 |- CONTRIBUTING.md
 |- dataset.csv
@@ -42,7 +42,7 @@ ML-Arena-4/
 
 ## Quick Start
 
-1. Fork this folder as its own repo (ML-Arena-4).
+1. Fork this folder as its own repo (K-Means-Clustering).
 2. Clone your fork and create a branch.
 3. Pick one issue.
 4. Work in only one notebook per issue based on track:

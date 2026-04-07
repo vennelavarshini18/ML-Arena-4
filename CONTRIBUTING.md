@@ -45,8 +45,8 @@ This repo contains the K-Means Clustering problem.
 2. Clone your fork and enter the repo folder:
 
 ```bash
-git clone https://github.com/<your-username>/ML-Arena-4.git
-cd ML-Arena-4
+git clone https://github.com/<your-username>/K-Means-Clustering.git
+cd K-Means-Clustering
 ```
 
 3. Create a branch:
